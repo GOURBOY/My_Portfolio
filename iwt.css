@@ -482,7 +482,10 @@ footer span a:hover{
 }
 @media (max-width: 947px){
     .abhay{
-
+        top: 6px;
+        height: 500px;
+        right: 113px;
+        width: 247px;
     }
     .home .home-content .text-2 {
         font-size: 45px;
@@ -553,9 +556,9 @@ footer span a:hover{
 
 @media (max-width: 690px) {
     .abhay{
-        height: 579px;
-        width: 266px;
-        right: 18px;
+        height: 492px;
+        width: 245px;
+        right: 89px;
         top: 13px;
     }
     .max-width{
@@ -577,21 +580,24 @@ footer span a:hover{
     font-size: 46px;
 }
 }
-@media (max-width: 600px) {
+@media (max-width: 655px) {
     .abhay{
-        height: 521px;
+        height: 499px;
         width: 246px;
-        right: 10px;
-        top: 50px;
+        right: 79px;
+        top: 9px;
     }
     .max-width{
         padding: 0 23px;
     }
+    .home .home-content .text-1{
+        font-size: 19px;
+    }
     .home .home-content .text-2{
-        font-size: 46px;
+        font-size: 23px;
     }
     .home .home-content .text-3{
-        font-size: 32px;
+        font-size: 16px;
     }
     .home .home-content a{
         font-size: 20px;
@@ -599,9 +605,12 @@ footer span a:hover{
     .services .serv-content .card{
         width: 100%;
     }
-    .home .home-content .text-2 {
+    .navbar{
+        padding: 0px;
+    }
+    /* .home .home-content .text-2 {
     font-size: 46px;
-}
+} */
 }
 
 @media (max-width: 500px) {
